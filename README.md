@@ -10,7 +10,7 @@ The project includes:
   - `survey_results_public.csv`: Main survey responses
   - `survey_results_schema.csv`: Column descriptions and schema
 - `notes/`: Additional documentation and notes
-  - `pandas_demo_notes.md`: Detailed explanations of the notebook content
+  - [00_pandas_demo_notes.md](notes/00_pandas_demo_notes.md): Detailed explanations of the notebook content
 
 ## Prerequisites
 
@@ -32,9 +32,8 @@ The data comes from the Stack Overflow Developer Survey, which collects insights
 
 ## Notes
 
-For detailed explanations of each step in the notebook, refer to `notes/pandas_demo_notes.md`.
+For detailed explanations of each step in the notebook, refer to [00_pandas_demo_notes.md](notes/00_pandas_demo_notes.md).
 
 ## License
 
 This project is for educational purposes.
-# pandas
