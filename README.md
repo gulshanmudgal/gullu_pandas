@@ -32,7 +32,9 @@ The data comes from the Stack Overflow Developer Survey, which collects insights
 
 ## Notes
 
-For detailed explanations of each step in the notebook, refer to [00_pandas_demo_notes.md](notes/00_pandas_demo_notes.md).
+For detailed explanations of each step in the notebooks, refer to:
+- [00_pandas_demo_notes.md](notes/00_pandas_demo_notes.md): Notes for the demo notebook
+- [01_pandas_datatypes_notes.md](notes/01_pandas_data_notes.md): Notes for the data manipulation notebook
 
 ## License
 
